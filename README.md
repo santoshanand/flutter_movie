@@ -11,7 +11,7 @@ To run the application
 
 `flutter run`
 
-<img src="screenshots/1.png" height="300em"/><img src="screenshots/2.png" height="300em"/><img src="screenshots/3.png" height="300em"/><img src="screenshots/4.png" height="300em"/><img src="screenshots/5.png" height="300em"/>
+<img src="screenshots/1.png" height="302em"/><img src="screenshots/2.png" height="302em"/><img src="screenshots/3.png" height="302em"/><img src="screenshots/4.png" height="302em"/><img src="screenshots/5.png" height="302em"/>
 
 Inspired with
 
