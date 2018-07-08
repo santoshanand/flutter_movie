@@ -11,12 +11,11 @@ To run the application
 
 `flutter run`
 
-![alt text](screenshots/1.png | width=400)
-![alt text](screenshots/2.png | width=400)
-![alt text](screenshots/3.png | width=400)
-![alt text](screenshots/4.png | width=400)
-![alt text](screenshots/5.png | width=400)
-
+<img src="screenshots/1.png" style="width=400px"/>
+<img src="screenshots/2.png" style="width=400px"/>
+<img src="screenshots/3.png" style="width=400px"/>
+<img src="screenshots/4.png" style="width=400px"/>
+<img src="screenshots/5.png" style="width=400px"/>
 
 Inspired with
 
